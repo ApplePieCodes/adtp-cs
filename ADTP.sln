@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADTP", "ADTP.csproj", "{ECC1DE43-FDEC-497C-9DE2-E04A7137E280}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADTP", "ADTP/ADTP.csproj", "{ECC1DE43-FDEC-497C-9DE2-E04A7137E280}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
